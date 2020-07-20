@@ -4,10 +4,7 @@ green
 blue
 pink
 navy blue
-<<<<<<< HEAD
 brown
 lila
-
-=======
 purple
->>>>>>> 05d19d886ac71cef7a2739ef1e40190fdb2f2238
+apricot
